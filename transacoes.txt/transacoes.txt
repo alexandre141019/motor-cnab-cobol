@@ -1,0 +1,6 @@
+020260810SISTEMA BANCARIO COBOL COBOL-BANK000001                                                                        
+112345678901JUAN CARLOS DA SILVA          000101234500001500500000004561                                                
+198765432100MARIA OLIVEIRA SOUZA          045600987600000000000000004562                                                
+155544433322CARLOS EDUARDO PEREIRA        102305544300350000000000004563                                                
+144433322211ANA REGINA ALMEIDA            000108877600000450250000004564                                                
+90000040000545075                                                                                                       
